@@ -50,3 +50,5 @@ Information about the data: In order to build your machine learning model, we ha
 *Training datasets are marked with 'train_' at the beginning of their filenames. Please use these sets to develop the model. 
 Datasets marked 'public_' at the beginning of their filenames are sets you can use to make predictions with your model and test how well your model performs on unseen data.
 
+More details can be viewed at the following site:
+https://bitgrit.net/competition/11
